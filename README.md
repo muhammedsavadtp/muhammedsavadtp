@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammed Savad</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
-<img alt="coding" align="right" width="400" src"https://www.guvi.in/blog/wp-content/uploads/2022/11/giphyFSD.gif">
+<img alt="coding" align="right" width="400" src="https://www.guvi.in/blog/wp-content/uploads/2022/11/giphyFSD.gif">
 
 - 👨‍💻 All of my projects are available at [https://next-js-portfolio-ten-xi.vercel.app/](https://next-js-portfolio-ten-xi.vercel.app/)
 
