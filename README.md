@@ -4,7 +4,7 @@
 <h3 align="center">A passionate fullstack developer from India</h3>
 <img alt="coding" align="right" width="400" src="https://www.guvi.in/blog/wp-content/uploads/2022/11/giphyFSD.gif">
 
-- 👨‍💻 All of my projects are available at [https://next-js-portfolio-ten-xi.vercel.app/](https://shorturl.at/aitKO)
+- 👨‍💻 All of my projects are available at [https://rb.gy/6ikvh](https://rb.gy/6ikvh)
 
 - 📫 How to reach me **www.savad34@gmail.com**
 
