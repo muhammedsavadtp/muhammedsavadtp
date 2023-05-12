@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **www.savad34@gmail.com**
 
-- 📄 Know about my experiences [https://app.enhancv.com/share/91bb97ef/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic](https://app.enhancv.com/share/91bb97ef/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic)
+- 📄 Know about my experiences [https://shorturl.at/chiGO](https://shorturl.at/chiGO)
 
 - ⚡ Fun fact **I am a quick learner.**
 
