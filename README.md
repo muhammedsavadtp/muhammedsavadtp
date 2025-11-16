@@ -16,15 +16,9 @@
 
 ### 💫 About Me
 
+Senior Full Stack Developer with 3+ years of experience, based in India. I specialize in building scalable web solutions with expertise in Full Stack Development, System Design, and Real-time Applications. Currently expanding my knowledge in Cloud Architecture and DevOps. 
 
-const savad: Developer = {
-    location: "India",
-    experience: "5+ years",
-    specialization: ["Full Stack Development", "System Design", "Real-time Applications"],
-    current: "Building scalable web solutions",
-    learning: "Cloud Architecture & DevOps",
-    askMeAbout: ["MERN Stack", "System Design", "WebSockets", "Performance Optimization"]
-};
+Always happy to discuss MERN Stack, System Design patterns or Performance Optimization strategies.
 
 
 - 🔭 Currently working on **enterprise-level SaaS applications**
@@ -80,7 +74,7 @@ const savad: Developer = {
 
 ### 🏆 Achievements
 
-- 🎯 **5+ Years** of Professional Development Experience
+- 🎯 **3+ Years** of Professional Development Experience
 - 🚀 Successfully delivered **20+ production applications**
 - 👥 Mentored **10+ junior developers**
 - ⚡ Improved application performance by **40%** on average
@@ -105,15 +99,7 @@ const savad: Developer = {
 
 ---
 
-### 💼 Work Experience
 
-| Role | Company | Duration | Key Achievements |
-|------|---------|----------|------------------|
-| **Senior Full Stack Developer** | Current | 2022 - Present | • Led team of 5 developers<br>• Architected microservices infrastructure<br>• Reduced deployment time by 60% |
-| **Full Stack Developer** | Previous | 2020 - 2022 | • Built 10+ client projects<br>• Implemented CI/CD pipelines<br>• Optimized database queries |
-| **Junior Developer** | Earlier | 2019 - 2020 | • Developed RESTful APIs<br>• Created responsive UI components<br>• Maintained legacy systems |
-
----
 
 ### 🤝 Let's Connect
 
@@ -123,7 +109,7 @@ I'm always interested in collaborating on innovative projects and discussing new
 
 📧 **Email:** savad34@gmail.com  
 🌐 **Portfolio:** [muhammedsavad.in](https://www.muhammedsavad.in)  
-💼 **LinkedIn:** [muhammed-savad](https://linkedin.com/in/muhammed-savad-361a71241)  
+💼 **LinkedIn:** [muhammed-savad]([https://linkedin.com/in/muhammed-savad-361a71241](https://in.linkedin.com/in/muhammed-savad))  
 📱 **Schedule a Call:** [Calendar Link](https://calendly.com/savad34)
 
 </div>
