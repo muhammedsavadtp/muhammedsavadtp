@@ -109,7 +109,7 @@ I'm always interested in collaborating on innovative projects and discussing new
 
 📧 **Email:** savad.developer@gmail.com  
 🌐 **Portfolio:** [muhammedsavad.in](https://www.muhammedsavad.in)  
-💼 **LinkedIn:** [muhammed-savad]((https://linkedin.com/in/muhammed-savad))  
+💼 **LinkedIn:** [muhammed-savad](https://linkedin.com/in/muhammed-savad) 
 📱 **Schedule a Call:** [Calendar Link](https://calendly.com/savad34)
 
 </div>
