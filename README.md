@@ -6,8 +6,8 @@
 ### Senior Full Stack Engineer | System Architect | Tech Lead
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-muhammedsavad.in-2F7DF7?style=flat&logo=google-chrome&logoColor=white)](https://www.muhammedsavad.in)
-[![Email](https://img.shields.io/badge/Email-savad34@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:savad34@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-muhammed--savad-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammed-savad-361a71241)
+[![Email](https://img.shields.io/badge/Email-savad.developer@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:savad.developer@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-muhammed--savad-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/muhammed-savad)
 [![GitHub](https://img.shields.io/github/followers/muhammedsavadtp?label=Follow&style=social)](https://github.com/muhammedsavadtp)
 
 </div>
@@ -25,7 +25,7 @@ Always happy to discuss MERN Stack, System Design patterns or Performance Optimi
 - 🌱 Expanding expertise in **AWS, Kubernetes, and Microservices**
 - 👯 Open to collaborate on **Open Source Projects**
 - 💬 Ask me about **JavaScript, React, Node.js, System Design**
-- 📫 Reach me at **savad34@gmail.com**
+- 📫 Reach me at **savad.developer@gmail.com**
 - ⚡ Fun fact: **I debug with console.log and I'm proud of it**
 
 ---
@@ -107,9 +107,9 @@ Always happy to discuss MERN Stack, System Design patterns or Performance Optimi
   
 I'm always interested in collaborating on innovative projects and discussing new opportunities.
 
-📧 **Email:** savad34@gmail.com  
+📧 **Email:** savad.developer@gmail.com  
 🌐 **Portfolio:** [muhammedsavad.in](https://www.muhammedsavad.in)  
-💼 **LinkedIn:** [muhammed-savad]([https://linkedin.com/in/muhammed-savad-361a71241](https://in.linkedin.com/in/muhammed-savad))  
+💼 **LinkedIn:** [muhammed-savad]((https://in.linkedin.com/in/muhammed-savad))  
 📱 **Schedule a Call:** [Calendar Link](https://calendly.com/savad34)
 
 </div>
