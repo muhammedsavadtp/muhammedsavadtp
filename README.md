@@ -39,13 +39,7 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 
-const savad = {
-    role: "Senior Fullstack Developer",
-    experience: "5+ Years",
-    location: "Available for Remote Work",
-    expertise: ["System Architecture", "Performance Optimization", "Team Leadership"],
-    currentFocus: "Building scalable microservices and real-time applications"
-};
+
 Specialized in:
 
 🏗️ Architecture: Microservices, Event-Driven Systems, RESTful APIs
@@ -80,16 +74,7 @@ Mentored 10+ junior developers
 <p align="left"> <a href="https://github.com/muhammedsavadtp/project1"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=muhammedsavadtp&repo=project1&theme=tokyonight" /> </a> <a href="https://github.com/muhammedsavadtp/project2"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=muhammedsavadtp&repo=project2&theme=tokyonight" /> </a> </p>
 📈 Contribution Graph
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammedsavadtp&theme=tokyo-night&hide_border=true" /> </p>
-💡 What I Bring to the Table
-mermaid
 
-graph LR
-    A[Technical Excellence] --> B[Clean Code]
-    A --> C[Scalable Architecture]
-    D[Business Acumen] --> E[User-Centric Design]
-    D --> F[ROI Focus]
-    G[Leadership] --> H[Team Mentoring]
-    G --> I[Agile Practices]
 📬 Let's Connect!
 <p align="center"> <b>🚀 Available for challenging fullstack projects and consultations</b> </p><p align="center"> <a href="https://www.muhammedsavad.in"> <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-4F46E5?style=for-the-badge" /> </a> <a href="mailto:savad34@gmail.com"> <img src="https://img.shields.io/badge/📧_Send_Email-D14836?style=for-the-badge" /> </a> <a href="https://calendly.com/savad34"> <img src="https://img.shields.io/badge/📅_Schedule_Meeting-00A2FF?style=for-the-badge" /> </a> </p>
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer" /> </p><p align="center"> <b>⭐ Star my repositories if you find them valuable!</b><br> <i>Let's build something amazing together 🚀</i> </p> ```
